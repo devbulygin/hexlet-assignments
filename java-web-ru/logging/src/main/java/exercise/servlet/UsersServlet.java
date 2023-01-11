@@ -90,6 +90,7 @@ public class UsersServlet extends HttpServlet {
         request.setAttribute("error", "");
 
         TemplateEngineUtil.render("users/new.html", request, response);
+
     }
 
     private void createUser(HttpServletRequest request,

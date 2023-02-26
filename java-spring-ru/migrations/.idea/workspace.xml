@@ -14,6 +14,8 @@
       <change beforePath="$PROJECT_DIR$/../intro-to-spring/.idea/jpa-buddy.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../intro-to-spring/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../intro-to-spring/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/.idea/compiler.xml" beforeDir="false" />

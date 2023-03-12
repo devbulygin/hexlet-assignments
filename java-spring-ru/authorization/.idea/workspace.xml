@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01b1f51c-eb3b-4c9b-9296-8be073ffb24c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/reflections/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/reflections/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authentication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../authentication/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../filtration/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../filtration/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finite-state-machine/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../finite-state-machine/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro-to-spring/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../intro-to-spring/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro-to-spring/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro-to-spring/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro-to-spring/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro-to-spring/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro-to-spring/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro-to-spring/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro-to-spring/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../migrations/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/README.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/examples/example.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/hexlet.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/hexlet.trace.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/presentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/src/main/java/exercise/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/src/main/java/exercise/controller/PeopleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/src/main/java/exercise/controller/WelcomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/src/main/resources/db/changelog/changelog-master.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/src/test/java/exercise/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/src/test/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../migrations_26.02.23_22.11.06/src/test/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../open-api/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../open-api/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-orm/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-orm/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-orm/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-orm/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-orm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-orm/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-orm/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-orm/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-orm/hexlet.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-orm/hexlet.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web-ru/deploy/src/main/java/exercise/servlet/WelcomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web-ru/deploy/src/main/java/exercise/servlet/WelcomeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web-ru/html/src/main/java/exercise/servlet/UsersServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web-ru/html/src/main/java/exercise/servlet/UsersServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web-ru/jdbc/hexlet.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web-ru/jdbc/hexlet.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web-ru/logging/log.txt.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web-ru/session/src/main/java/exercise/servlet/SessionServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web-ru/session/src/main/java/exercise/servlet/SessionServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web-ru/session/src/main/webapp/WEB-INF/tags/application.tag" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web-ru/session/src/main/webapp/WEB-INF/tags/application.tag" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MuEeZWDrasXs6tLNf4aZ7QpPSR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01b1f51c-eb3b-4c9b-9296-8be073ffb24c" name="Changes" comment="" />
+      <created>1678609162708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678609162708</updated>
+    </task>
+    <servers />
+  </component>
+</project>
